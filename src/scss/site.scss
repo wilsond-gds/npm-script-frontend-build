@@ -1,0 +1,13 @@
+$text-colour: darkblue;
+$background-colour: lightyellow;
+$border-style:dotted;
+/* a change */
+
+body { margin: 3rem; background-color: $background-colour; border:10px $border-style $text-colour; padding: 1.25rem 2rem;
+font-family: futura,sans-serif; font-size:1.2rem; font-weight: 400;
+}
+p {color: $text-colour; padding:0; }
+a { color: red;}
+
+
+
